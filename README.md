@@ -1,6 +1,6 @@
 # Frontend Mentor - QR Code Component
 
-This is my solution to the [QR Code Component challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_s5Ck1) on Frontend Mentor. The challenge involves creating a simple, responsive QR code component that displays a QR code with a short message and can be used in any web application.
+This is my solution to the [QR Code Component challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) on Frontend Mentor. The challenge involves creating a simple, responsive QR code component that displays a QR code with a short message and can be used in any web application.
 
 ## Overview
 
